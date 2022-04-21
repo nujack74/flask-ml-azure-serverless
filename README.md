@@ -1,2 +1,1 @@
-# flask-ml-azure-serverless
-Deploy Flask Machine Learning Application on Azure App Services
+This repo contains the starter materials for projects from the Udacity Azure Cloud DevOps Nanodegree Program.
